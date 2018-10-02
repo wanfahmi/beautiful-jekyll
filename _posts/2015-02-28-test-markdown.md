@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 ---
 
-Hey guys, my name is Wan Fahmi and I am working at UKM Medical Molecular Biology Institute at UKM Medical Centre Campus in Bandar Tun Razak, Kuala Lumpur, MALAYSIA. I am working as Bioinformatician in Cancer Genomic Group lead by Dr. Nurul Syakima Ab Mutalib. I am currently analysing various type of cancer using RNA-seq data including thyroid cancer, ovarian cancer and colorectal cancer. 
+Hey guys, my name is Wan Fahmi and I am working at UKM Medical Molecular Biology Institute at UKM Medical Centre Campus in Bandar Tun Razak, Kuala Lumpur, MALAYSIA also known as UMBI. I am working as Bioinformatician in Cancer Genomic Group. I am currently analysing various type of cancer using RNA-seq data including thyroid cancer, ovarian cancer and colorectal cancer. 
 
 I am interested to explore and understand the molecular mechanism of cancer and biomarker that affects the cancer cell. 
 
